@@ -1,7 +1,7 @@
 # HTML Code
 
 ## <a id="Content">**Content**</a>
-| Sl.No|  Questions        |
+| No.|  Lesson plan        |
 |------|------------------ |
 | 01.  |[The Real World](#The-Real-World)|
 | 02.  |[Review](#Review)|
