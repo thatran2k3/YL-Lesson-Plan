@@ -1190,3 +1190,280 @@ Review</b> (50 mins)</h3>
 <div align="right">
 <b><a href="#Content">↥ back to top</a></b>
 </div>
+
+
+
+## <a id="Writing"></a>***7. Writing***
+
+<p align="center">
+<img src="asset/Writing.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: decimal !important;
+    }
+
+    .ul-disc {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: disc !important;
+    }
+
+    .ul-circle {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: circle !important;
+    }
+
+    .ul-square {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: square !important;
+    }
+
+    .li-plan {
+        margin: -10px 0px 5px 7px;
+    }
+
+    .table-plan td,
+    th {
+        border-left: 0px solid gray !important;
+        border-right: 0px solid gray !important;
+        padding: 5px 10px !important;
+        width: auto !important;
+    }
+
+    .table-plan {
+        border-collapse: collapse;
+        margin-left: 0px !important;
+        width: 96.7% !important;
+    }
+</style>
+
+<div
+    style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+
+    <h3 style="vertical-align: text-bottom;"><b>Writing </b> (80 mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3"
+            style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231);
+    background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+
+            <!-- TABLE HEADER -->
+
+            <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson
+                Plan</b>&#160;&#160;|&#160;&#160;<span
+                style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 2</b></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- Lead-in -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Lead-in </b>
+
+        </td>
+        <td style="border-bottom: 1px solid silver;">Review the vocabulary / unit content, and engage students
+
+        </td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent1234&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent1234" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Lead-in - Note -->
+
+                    <b>Lead-in</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Have students choose the descriptions, then work in pairs to talk about the
+                            picture that is the most impressive to them. </li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!--Brainstorming-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Brainstorming: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">Portfolio: p.17</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Develop ideas about the writing task</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2212&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2212" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Brainstorming - Note -->
+
+                    <b>Brainstorming:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Lead students into the writing topic.</li>
+                        <li class="li-plan">Show examples of how to brainstorm for the topic.</li>
+                        <li class="li-plan">Have students brainstorm ideas about their hero and note down the ideas in
+                            the portfolio. </li>
+                        <li class="li-plan">Suggest some useful language for the topic.</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Sharing + Organizing ideas -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Sharing + Organizing ideas: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">Portfolio: pp. 17-18 </li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Organize ideas</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2221&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2221" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Sharing + Organizing ideas - Note -->
+
+                    <b>Sharing &amp; Organizing ideas:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Give instructions and examples.</li>
+                        <li class="li-plan">Have students mingle, interview their friends, and take some notes in the
+                            portfolio.</li>
+                        <li class="li-plan">Remind students to answer the questions using the language learned in the
+                            unit.</li>
+                        <li class="li-plan">Go through the organization of a blog post describing a hero.
+                        </li>
+                    </ol>
+
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!--Writing skills + Practice-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Writing skills + Practice: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">Portfolio: p.19</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Understand and apply the tips in students' writing</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2231&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2231" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Writing skills + Practice- Note -->
+
+                    <b>Writing skills & Practice:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Go through the Writing tips about giving examples. </li>
+                        <li class="li-plan">Give students some writing practice on phrases used to give examples.
+                        </li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Writing -->
+
+        <td><b>Writing:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">Portfolio: p.20</li>
+            </ul>
+        </td>
+        <td>Develop writing skills</td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2512&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2512" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Writing - Note -->
+
+                    <b>Writing:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Show the question again and the sample writing. Remind students again of the
+                            organization of the blog post they need to write. (PPT)</li>
+                        <li class="li-plan">Have students fill in their outline and do the writing task. (Portfolio)
+                        </li>
+                        <li class="li-plan">Circulate and provide necessary language support.
+                        </li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!--Assessment-->
+
+    <tr>
+        <td><b>Assessment:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">Portfolio: p.20</li>
+            </ul>
+        </td>
+        <td>Improve writing skills</td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2412&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2412" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Assessment - Note -->
+
+                    <b>Assessment:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Have students do self-assessment and peer correction.</li>
+                        <li class="li-plan">Collect students’ writing for correction.</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
