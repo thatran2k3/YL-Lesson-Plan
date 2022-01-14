@@ -9,6 +9,7 @@
 | 04.  |[Preview](#Preview)|
 | 05.  |[Language Focus](#Language-Focus)|
 | 06.  |[Reading](#Reading)|
+| 07.  |[Writing](#Writing)|
 ## <a id="The-Real-World"></a>***1. The Real World***
 <p align="center">
 <img src="asset/Therealword.jpg" alt="" width="auto" />
