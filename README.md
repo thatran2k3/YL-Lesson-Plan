@@ -81,7 +81,7 @@
     <tr>
         <td style="border-bottom: 1px solid silver;"><b>Introduce the context: </b>
             <ul class="ul-disc">
-                <li class="li-plan">PPT: slides 2-3</li>
+                <li class="li-plan">PPT: slides #2-3</li>
             </ul>
         </td>
         <td style="border-bottom: 1px solid silver;">Build listening and speaking skills in a real-life context</td>
@@ -163,7 +163,7 @@
             <b>Speaking: </b>
             <ul class="ul-disc">
                 <li class="li-plan">Portfolio: p.10</li>
-                <li class="li-plan">PPT: slide 4</li>
+                <li class="li-plan">PPT: slide #4</li>
             </ul>
         </td>
         <td style="border-bottom: 1px solid silver;">Build listening and speaking skills in a real-life context</td>
@@ -226,7 +226,7 @@
         <td><b>Communication:</b>
             <ul class="ul-disc">
                 <li class="li-plan">SB: p.13</li>
-                <li class="li-plan">PPT: slides 5-6</li>
+                <li class="li-plan">PPT: slides #5-6</li>
             </ul>
         </td>
         <td>
