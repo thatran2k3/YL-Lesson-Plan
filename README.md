@@ -37,7 +37,7 @@
           
 <!-- TABLE HEADER -->
           
-<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;<i style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;">|&#160;&#160;SB: pp.12 &amp; 13</i>
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span>
         </th>
     </tr>
     <tr>
@@ -289,7 +289,7 @@ Review</b> (50 mins)</h3>
           
 <!-- TABLE HEADER -->
           
-<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;<i style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;">|&#160;&#160;SB: pp.17 &amp; 29</i>
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span>
         </th>
     </tr>
     <tr>
@@ -447,7 +447,7 @@ Review</b> (50 mins)</h3>
           
 <!-- TABLE HEADER -->
           
-<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;<i style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;">|&#160;&#160;SB: p.76</i>
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span>
         </th>
     </tr>
     <tr>
@@ -625,7 +625,7 @@ Review</b> (50 mins)</h3>
 
 <!-- TABLE HEADER --> 
             
-<b style ="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;<i style ="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;">|&#160;&#160;SB: pp. 8, 9 &amp; 11</i></th>
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span></th>
 </tr>
 <tr>
  <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b></td>
@@ -787,7 +787,7 @@ Review</b> (50 mins)</h3>
             
 <!-- TABLE HEADER -->  
             
-  <b style ="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;<i style ="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;">|&#160;&#160;SB: pp.10&#160;&#160;|&#160;&#160;WB: pp.80 &amp; 81</i></th>
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span></th>
  </tr>
  <tr>
   <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b></td>
@@ -968,7 +968,7 @@ Review</b> (50 mins)</h3>
   <th colspan="3" style = "border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231); background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
             
 <!-- TABLE HEADER -->  
-  <b style ="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;<i style ="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;">|&#160;&#160;SB: pp.4-17&#160;&#160;|&#160;&#160;WB: pp.83</i></th>
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span></th>
  </tr>
  <tr>
    <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b></td>
