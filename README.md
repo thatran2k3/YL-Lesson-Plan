@@ -870,7 +870,7 @@ Review</b> (50 mins)</h3>
 <b><a href="#Content">↥ back to top</a></b>
 </div>
 
-## <a id="Language Focus"></a>***5. Language Focus***
+## <a id="Language-Focus"></a>***5. Language Focus***
 
 <p align="center">
 <img src="asset/Languagefocus.jpg" alt="" width="auto" />
