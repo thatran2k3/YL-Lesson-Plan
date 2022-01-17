@@ -10,6 +10,11 @@
 | 05.  |[Language Focus](#Language-Focus)|
 | 06.  |[Reading](#Reading)|
 | 07.  |[Writing](#Writing)|
+| 08.  |[Mini project](#Mini-project)|
+| 09.  |[KET oral practice](#KET-oral-practice)|
+| 010.  |[Warm up & Review](#Warm-up-and-Review)|
+| 011.  |[Home assignment](#Home-assignment)|
+| 012.  |[Homework correction](#Homework-correction)|
 ## <a id="The-Real-World"></a>***1. The Real World***
 <p align="center">
 <img src="asset/Therealword.jpg" alt="" width="auto" />
@@ -1468,3 +1473,303 @@ Review</b> (50 mins)</h3>
 <b><a href="#Content">↥ back to top</a></b>
 </div>
 
+
+## <a id="Mini project"></a>***8. Mini-project***
+
+<p align="center">
+<img src="asset/Mini-project.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: decimal !important;}
+    .ul-disc {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: disc !important;}
+    .ul-circle {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: circle !important;}
+    .ul-square { margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: square !important;}
+    .li-plan {margin: -10px 0px 5px 7px;}
+    .table-plan td, th {border-left: 0px solid gray !important; border-right: 0px solid gray !important; padding: 5px 10px !important; width: auto !important;}
+    .table-plan {border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
+</style>
+
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+
+    <h3 style="vertical-align: text-bottom;"><b>Mini-project</b> (50 mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3" style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231);
+    background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+          
+<!-- TABLE HEADER -->
+          
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 4</b></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- Engage -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Engage </b>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Develop speaking skills through discussing, making and presenting a product.</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent7234&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent7234" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Lead-in - Note -->                  
+                  
+                    <b>Engage</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">Have students play the game <i>“The secret animal”</i>.</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!-- Develop -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Develop</b>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Develop speaking skills through discussing, making and presenting a product.</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2012&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2012" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Develop - Note -->                  
+                  
+                    <b>Develop</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Have students guess the names of the animals and discuss where they live.</li>
+                        <li class="li-plan">Have students discuss the animal that can rule the animal kingdom.
+                        </li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Prepare -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Prepare</b>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Develop speaking skills through discussing, making and presenting a product.</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2921&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2921" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Prepare - Note -->                  
+                  
+                    <b>Prepare</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Have students draw 3 animals and brainstorm some key words to explain why they should be chosen to rule the animal kingdom.</li>
+                        <li class="li-plan">Suggest that students can sketch and / or draw stick figures. Provide support if needed.</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Share -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Share</b>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Develop speaking skills through discussing, making and presenting a product.</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent3231&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent3231" style="display: none; padding-left: 5px;">
+                <div>
+
+<!-- Share - Note -->                  
+                  
+                    <b>Share</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">Practice: Have students share their work and present about it.</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Wrap-up -->
+
+        <td><b>Wrap-up</b>
+        </td>
+        <td>Develop speaking skills through discussing, making and presenting a product.</td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2612&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2612" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Wrap-up - Note -->                  
+                  
+                    <b>Wrap-up</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Teacher’s feedback</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="KET oral practice"></a>***9. KET-oral-practice***
+
+<p align="center">
+<img src="asset/ketoral.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: decimal !important;}
+    .ul-disc {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: disc !important;}
+    .ul-circle {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: circle !important;}
+    .ul-square { margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: square !important;}
+    .li-plan {margin: -10px 0px 5px 7px;}
+    .table-plan td, th {border-left: 0px solid gray !important; border-right: 0px solid gray !important; padding: 5px 10px !important; width: auto !important;}
+    .table-plan { border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
+</style>
+
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+    <h3 style="vertical-align: text-bottom;"><b>
+            KET oral practice</b> (15 mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3" style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231); background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+          
+<!-- TABLE HEADER -->
+          
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 4</b></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- KET oral practice -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>KET oral practice</b>
+            <ul class="ul-disc">
+                <li class="li-plan">PPT: slides #16-18</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Practice speaking skills
+          <p style="margin-bottom: 5px;"></p>
+			Familiarize students with the KET oral test</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2657&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2657" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- KET oral practice - Note -->                  
+
+                  <b>KET oral practice</b>
+                      <ol class="ol-number">
+                        <li class="li-plan">Explain the tasks and model the answers. Then have students practice in pairs. Monitor students and provide support.</li>
+                      <li class="li-plan">Provide feedback at the end of all activities.</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="Warm up & Review"></a>***10. Warm-up-and-Review***
+
+<p align="center">
+<img src="asset/warmupnreview.jpg" alt="" width="auto" />
+</p>
+
+```
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Warm-up &amp; Review ( 10 mins - optional)</b></h3></div>
+<p style="margin-bottom: 5px"></p>
+This is optional but you may want to begin the session with an interactive activity. Please feel free to come up with one that fits. 
+
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="Home assignment"></a>***11. Home-assignment***
+
+<p align="center">
+<img src="asset/homeassignment.jpg" alt="" width="auto" />
+</p>
+
+```
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Home assignment</b></h3></div>
+<p style="margin-bottom: 5px"></p>Before ending the session, please remind your students of completing the exercises on the "Language Focus" and "Preview" for grading. They can find these exercises in the After-Class session.
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="Homework correction"></a>***12. Homework-correction***
+
+<p align="center">
+<img src="asset/Writing.jpg" alt="" width="auto" />
+</p>
+
+```
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Homework correction (10 mins)</b></h3></div>
+<p style="margin-bottom: 5px"></p>
+Language focus: #B (WB, p. 93)
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
