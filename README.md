@@ -1727,7 +1727,7 @@ Review</b> (50 mins)</h3>
 ## <a id="Warm-up-and-Review"></a>***10. Warm up & Review***
 
 <p align="center">
-<img src="asset/Warmupnreview.jpg" alt="" width="auto" />
+<img src="asset/WarmupnReview.jpg" alt="" width="auto" />
 </p>
 
 ```
