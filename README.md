@@ -1293,9 +1293,9 @@ Review</b> (50 mins)</h3>
         </td>
         <td style="border-bottom: 1px solid silver;">
             <p style="margin-bottom: 10px;"><button
-                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent1234&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwrilead&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
             </p>
-            <div id="idUniquedBoxContent1234" style="display: none; padding-left: 5px;">
+            <div id="idUniquedBoxContentwrilead" style="display: none; padding-left: 5px;">
                 <div>
 
                     <!-- Lead-in - Note -->
@@ -1321,9 +1321,9 @@ Review</b> (50 mins)</h3>
         <td style="border-bottom: 1px solid silver;">Develop ideas about the writing task</td>
         <td style="border-bottom: 1px solid silver;">
             <p style="margin-bottom: 10px;"><button
-                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2212&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwribrain&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
             </p>
-            <div id="idUniquedBoxContent2212" style="display: none; padding-left: 5px;">
+            <div id="idUniquedBoxContentwribrain" style="display: none; padding-left: 5px;">
                 <div>
 
                     <!-- Brainstorming - Note -->
@@ -1354,9 +1354,9 @@ Review</b> (50 mins)</h3>
         <td style="border-bottom: 1px solid silver;">Organize ideas</td>
         <td style="border-bottom: 1px solid silver;">
             <p style="margin-bottom: 10px;"><button
-                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2221&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwrishare&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
             </p>
-            <div id="idUniquedBoxContent2221" style="display: none; padding-left: 5px;">
+            <div id="idUniquedBoxContentwrishare" style="display: none; padding-left: 5px;">
                 <div>
 
                     <!-- Sharing + Organizing ideas - Note -->
@@ -1390,14 +1390,14 @@ Review</b> (50 mins)</h3>
         <td style="border-bottom: 1px solid silver;">Understand and apply the tips in students' writing</td>
         <td style="border-bottom: 1px solid silver;">
             <p style="margin-bottom: 10px;"><button
-                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2231&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwriprac&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
             </p>
-            <div id="idUniquedBoxContent2231" style="display: none; padding-left: 5px;">
+            <div id="idUniquedBoxContentwriprac" style="display: none; padding-left: 5px;">
                 <div>
 
                     <!-- Writing skills + Practice- Note -->
 
-                    <b>Writing skills & Practice:</b>
+                    <b>Writing skills &amp; Practice:</b>
                     <ol class="ol-number">
                         <li class="li-plan">Go through the Writing tips about giving examples. </li>
                         <li class="li-plan">Give students some writing practice on phrases used to give examples.
@@ -1419,9 +1419,9 @@ Review</b> (50 mins)</h3>
         <td>Develop writing skills</td>
         <td>
             <p style="margin-bottom: 10px;"><button
-                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2512&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwritedi&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
             </p>
-            <div id="idUniquedBoxContent2512" style="display: none; padding-left: 5px;">
+            <div id="idUniquedBoxContentwritedi" style="display: none; padding-left: 5px;">
                 <div>
 
                     <!-- Writing - Note -->
@@ -1451,9 +1451,9 @@ Review</b> (50 mins)</h3>
         <td>Improve writing skills</td>
         <td>
             <p style="margin-bottom: 10px;"><button
-                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2412&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwritassessment&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
             </p>
-            <div id="idUniquedBoxContent2412" style="display: none; padding-left: 5px;">
+            <div id="idUniquedBoxContentwritassessment" style="display: none; padding-left: 5px;">
                 <div>
 
                     <!-- Assessment - Note -->
