@@ -802,10 +802,10 @@ Review</b> (50 mins)</h3>
   <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b></td>
  </tr>
     
-<!-- LANGUAGE FOCUS -->   
+<!-- LANGUAGE IN CONTEXT -->   
       
  <tr>  
-  <td style="border-bottom: 1px solid silver;"><b>Language Focus:</b>
+  <td style="border-bottom: 1px solid silver;"><b>Language in Context:</b>
     <ul class="ul-disc">
       <li class="li-plan">SB: #A, p.10
       <li class="li-plan">PPT: slides #12-15 (optional)
