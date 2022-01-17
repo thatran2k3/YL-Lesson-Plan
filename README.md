@@ -1474,7 +1474,7 @@ Review</b> (50 mins)</h3>
 </div>
 
 
-## <a id="Mini project"></a>***8. Mini-project***
+## <a id="Mini-project"></a>***8. Mini project***
 
 <p align="center">
 <img src="asset/Mini-project.jpg" alt="" width="auto" />
@@ -1648,7 +1648,7 @@ Review</b> (50 mins)</h3>
 </div>
 
 
-## <a id="KET oral practice"></a>***9. KET-oral-practice***
+## <a id="KET-oral-practice"></a>***9. KET oral practice***
 
 <p align="center">
 <img src="asset/ketoral.jpg" alt="" width="auto" />
@@ -1724,7 +1724,7 @@ Review</b> (50 mins)</h3>
 </div>
 
 
-## <a id="Warm up & Review"></a>***10. Warm-up-and-Review***
+## <a id="Warm-up-and-Review"></a>***10. Warm up & Review***
 
 <p align="center">
 <img src="asset/warmupnreview.jpg" alt="" width="auto" />
@@ -1742,7 +1742,7 @@ This is optional but you may want to begin the session with an interactive activ
 </div>
 
 
-## <a id="Home assignment"></a>***11. Home-assignment***
+## <a id="Home-assignment"></a>***11. Home assignment***
 
 <p align="center">
 <img src="asset/homeassignment.jpg" alt="" width="auto" />
@@ -1758,7 +1758,7 @@ This is optional but you may want to begin the session with an interactive activ
 </div>
 
 
-## <a id="Homework correction"></a>***12. Homework-correction***
+## <a id="Homework-correction"></a>***12. Homework correction***
 
 <p align="center">
 <img src="asset/Writing.jpg" alt="" width="auto" />
