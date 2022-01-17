@@ -1651,7 +1651,7 @@ Review</b> (50 mins)</h3>
 ## <a id="KET-oral-practice"></a>***9. KET oral practice***
 
 <p align="center">
-<img src="asset/ketoral.jpg" alt="" width="auto" />
+<img src="asset/Ketoral.jpg" alt="" width="auto" />
 </p>
 
 ```
@@ -1727,7 +1727,7 @@ Review</b> (50 mins)</h3>
 ## <a id="Warm-up-and-Review"></a>***10. Warm up & Review***
 
 <p align="center">
-<img src="asset/warmupnreview.jpg" alt="" width="auto" />
+<img src="asset/Warmupnreview.jpg" alt="" width="auto" />
 </p>
 
 ```
@@ -1745,7 +1745,7 @@ This is optional but you may want to begin the session with an interactive activ
 ## <a id="Home-assignment"></a>***11. Home assignment***
 
 <p align="center">
-<img src="asset/homeassignment.jpg" alt="" width="auto" />
+<img src="asset/Homeassignment.jpg" alt="" width="auto" />
 </p>
 
 ```
@@ -1761,7 +1761,7 @@ This is optional but you may want to begin the session with an interactive activ
 ## <a id="Homework-correction"></a>***12. Homework correction***
 
 <p align="center">
-<img src="asset/Writing.jpg" alt="" width="auto" />
+<img src="asset/HWcorrection.jpg" alt="" width="auto" />
 </p>
 
 ```
