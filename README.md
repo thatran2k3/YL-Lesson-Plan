@@ -15,6 +15,7 @@
 | 010.  |[Warm up & Review](#Warm-up-and-Review)|
 | 011.  |[Home assignment](#Home-assignment)|
 | 012.  |[Homework correction](#Homework-correction)|
+| 013.  |[Video for YC](#Video-YC)|
 ## <a id="The-Real-World"></a>***1. The Real World***
 <p align="center">
 <img src="asset/Therealword.jpg" alt="" width="auto" />
@@ -1768,6 +1769,207 @@ This is optional but you may want to begin the session with an interactive activ
 <div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Homework correction (10 mins)</b></h3></div>
 <p style="margin-bottom: 5px"></p>
 Language focus: #B (WB, p. 93)
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="Video-YC"></a>***13. Video for YC***
+
+<p align="center">
+<img src="asset/VideoYC.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: decimal !important;}
+    .ul-disc {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: disc !important;}
+    .ul-circle {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: circle !important;}
+    .ul-square { margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: square !important;}
+    .li-plan {margin: -10px 0px 5px 7px;}
+    .table-plan td, th {border-left: 0px solid gray !important; border-right: 0px solid gray !important; padding: 5px 10px !important; width: auto !important;}
+    .table-plan {border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
+</style>
+
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+
+    <h3 style="vertical-align: text-bottom;"><b>Video</b> (xx mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3" style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231);
+    background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+          
+<!-- TABLE HEADER -->
+          
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 4</b></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+  
+  <!-- Warm up -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Warm-up </b>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Engage students in class interaction before starting the lesson.</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentvideowarm&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentvideowarm" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Warm up - Note -->                  
+                  
+                    <b>Warm-up</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!-- Engage -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Engage </b>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Introduce the topic</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentvideoengage&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentvideoengage" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Engage - Note -->                  
+                  
+                    <b>Engage</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!-- Develop -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Develop</b>
+        </td>
+      <td style="border-bottom: 1px solid silver;">Explore the content<br/>
+Understand the vocabulary</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentvideodev&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentvideodev" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Develop - Note -->                  
+                  
+                    <b>Develop</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Discuss -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Discuss</b>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Develop speaking skills through talking about the topic</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentvideodis&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentvideodis" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Discuss - Note -->                  
+                  
+                    <b>Discuss</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Share -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Share</b>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Develop speaking skills through talking about the topic</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentvideoshare&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentvideoshare" style="display: none; padding-left: 5px;">
+                <div>
+
+<!-- Share - Note -->                  
+                  
+                  <b>Share<br/>
+                  Task:</b> tt
+                    <ol class="ol-number">
+                      <li class="li-plan">tt</li>
+                      <li class="li-plan">tt</li>
+                      <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Wrap-up -->
+
+        <td><b>Wrap-up - Feedback</b>
+        </td>
+        <td> </td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentvideofeed&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentvideofeed" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Wrap-up - Note -->                  
+                  
+                    <b>Wrap-up - Feedback</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
 ```
 
 <div align="right">
