@@ -1013,7 +1013,7 @@ Review</b> (50 mins)</h3>
   <tr>  
    <td style="border-bottom: 1px solid silver;"><b>Reading fluency</b>
      <ul class="ul-disc">
-       <li class="li-plan">SB: #B, p.14 &amp; Reading text p.15
+       <li class="li-plan">SB: #B, p.14 &amp; Reading text p.15</li>
      </ul>
    </td>
    <td style="border-bottom: 1px solid silver;">Read the text fluently</td>
