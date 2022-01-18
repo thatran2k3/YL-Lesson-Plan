@@ -34,7 +34,7 @@
 
 <div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
 
-    <h3 style="vertical-align: text-bottom;"><b>The Real World</b> (65 mins)</h3>
+    <h3 style="vertical-align: text-bottom;"><b>The real world</b> (65 mins)</h3>
 </div>
 
 <table class="table-plan">
@@ -787,7 +787,7 @@ Review</b> (50 mins)</h3>
     .table-plan {border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
 </style>
     
-<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Language Focus</b> (65 mins)</h3></div>
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Language focus</b> (65 mins)</h3></div>
 <table class="table-plan">
  <tr>
   <th colspan="3" style = "border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231); background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
@@ -805,7 +805,7 @@ Review</b> (50 mins)</h3>
 <!-- LANGUAGE IN CONTEXT -->   
       
  <tr>  
-  <td style="border-bottom: 1px solid silver;"><b>Language in Context:</b>
+  <td style="border-bottom: 1px solid silver;"><b>Language in context:</b>
     <ul class="ul-disc">
       <li class="li-plan">SB: #A, p.10
       <li class="li-plan">PPT: slides #12-15 (optional)
@@ -849,7 +849,7 @@ Review</b> (50 mins)</h3>
 <!-- USE & FORM -->   
       
 <tr>
-  <td style="border-bottom: 1px solid silver;"><b>Use &amp; Form</b>
+  <td style="border-bottom: 1px solid silver;"><b>Use &amp; form</b>
     <ul class="ul-disc">
       <li class="li-plan">SB: #B on p.10</li>
       <li class="li-plan">PPT: slides #16-25</li>
