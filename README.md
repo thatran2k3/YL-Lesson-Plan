@@ -3439,10 +3439,6 @@ Understand the vocabulary</td>
 
 ## <a id="YS-PET-oral-practice"></a>***22. YS - PET oral practice***
 
-<p align="center">
-<img src="asset/Ketoral.jpg" alt="" width="auto" />
-</p>
-
 ```
 <style>
     .ol-number {
