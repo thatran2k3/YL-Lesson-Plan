@@ -3535,7 +3535,7 @@ Understand the vocabulary</td>
 
                     <!-- PET oral practice - Note -->
 
-                    <b>PET oral practice</b>
+                    <b>PET oral practice:</b>
                     <ol class="ol-number">
                         <li class="li-plan">Go through the test format and requirements.</li>
                         <li class="li-plan">In pairs, students practice PET Oral Test with a partner.</li>
