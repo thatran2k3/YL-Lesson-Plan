@@ -24,6 +24,7 @@
 | 019.  |[YS - Unit reflect](#YS-Unit-reflect)|
 | 020.  |[YS - Writing](#YS-Writing)|
 | 021.  |[YS - Project](#YS-Project)|
+| 022.  |[YS - PET oral practice](#YS-PET-oral-practice)|
 ## <a id="The-Real-World"></a>***1. The Real World***
 <p align="center">
 <img src="asset/Therealword.jpg" alt="" width="auto" />
@@ -3423,6 +3424,127 @@ Understand the vocabulary</td>
                      
                         <li class="li-plan">xx</li>
                      
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="YS-PET-oral-practice"></a>***22. YS - PET oral practice***
+
+<p align="center">
+<img src="asset/Ketoral.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: decimal !important;
+    }
+
+    .ul-disc {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: disc !important;
+    }
+
+    .ul-circle {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: circle !important;
+    }
+
+    .ul-square {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: square !important;
+    }
+
+    .li-plan {
+        margin: -10px 0px 5px 7px;
+    }
+
+    .table-plan td,
+    th {
+        border-left: 0px solid gray !important;
+        border-right: 0px solid gray !important;
+        padding: 5px 10px !important;
+        width: auto !important;
+    }
+
+    .table-plan {
+        border-collapse: collapse;
+        margin-left: 0px !important;
+        width: 96.7% !important;
+    }
+</style>
+
+<div
+    style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+    <h3 style="vertical-align: text-bottom;"><b>
+            PET oral practice</b> (10 mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3"
+            style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231); background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+
+            <!-- TABLE HEADER -->
+
+            <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson
+                Plan</b>&#160;&#160;|&#160;&#160;<span
+                style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- PET oral practice -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>PET oral practice</b>
+            <ul class="ul-disc">
+                <li class="li-plan">PPT: slides #9-12</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Practice speaking skills
+            <p style="margin-bottom: 5px;"></p>
+            Familiarize students with the PET oral test
+        </td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2657&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2657" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- PET oral practice - Note -->
+
+                    <b>PET oral practice</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Go through the test format and requirements.</li>
+                        <li class="li-plan">In pairs, students practice PET Oral Test with a partner.</li>
+                        <li class="li-plan">Go around to give feedback / support.</li>
+                        <li class="li-plan">Have some pairs talk in class and provide support. (PPT)</li>
                     </ol>
                 </div>
             </div>
