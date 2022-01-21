@@ -16,6 +16,14 @@
 | 011.  |[Home assignment](#Home-assignment)|
 | 012.  |[Homework correction](#Homework-correction)|
 | 013.  |[Video for YC](#Video-YC)|
+| 014.  |[YS - Lesson lead in](#YS-Lesson-lead-in)|
+| 015.  |[YS - Reading-to-learn](#YS-Reading to learn)|
+| 016.  |[YS - Unit opener](#YS-Unit-opener)|
+| 017.  |[YS - Language in use](#YS-Language-in-use)|
+| 018.  |[YS - Life skills](#YS-Life-skills)|
+| 019.  |[YS - Unit reflect](#YS-Unit-reflect)|
+| 020.  |[YS - Writing](#YS-Writing)|
+| 021.  |[YS - Project](#YS-Project)|
 ## <a id="The-Real-World"></a>***1. The Real World***
 <p align="center">
 <img src="asset/Therealword.jpg" alt="" width="auto" />
@@ -1964,6 +1972,1471 @@ Understand the vocabulary</td>
                     <b>Wrap-up - Feedback</b>
                     <ol class="ol-number">
                         <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="YS-Lesson-lead-in"></a>***14. YS Lesson lead in***
+
+
+
+```
+<style>
+    .ol-number {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: decimal !important;}
+    .ul-disc {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: disc !important;}
+    .ul-circle {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: circle !important;}
+    .ul-square { margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: square !important;}
+    .li-plan {margin: -10px 0px 5px 7px;}
+    .table-plan td, th {border-left: 0px solid gray !important; border-right: 0px solid gray !important; padding: 5px 10px !important; width: auto !important;}
+    .table-plan { border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
+</style>
+
+<div
+    style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+    <h3 style="vertical-align: text-bottom;"><b>
+            Lesson lead-in</b> (xx mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3"
+            style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231); background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+
+            <!-- TABLE HEADER -->
+
+            <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson
+                Plan</b>&#160;&#160;|&#160;&#160;<span
+                style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;">Unit x</span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- LESSON LEAD-IN -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Lesson lead-in</b>
+
+        </td>
+        <td style="border-bottom: 1px solid silver;">Introduce the topic and engage students</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent265788&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent265788" style="display: none; padding-left: 0px;">
+                <div>
+
+                    <!-- LESSON LEAD-IN - Note -->
+
+                    <b>Lesson lead-in:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+
+## <a id="YS-Reading-to-learn"></a>***15. YS - Reading to learn***
+
+
+
+```
+<style>
+    .ol-number {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: decimal !important;
+    }
+
+    .ul-disc {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: disc !important;
+    }
+
+    .ul-circle {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: circle !important;
+    }
+
+    .ul-square {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: square !important;
+    }
+
+    .li-plan {
+        margin: -10px 0px 5px 7px;
+    }
+
+    .table-plan td,
+    th {
+        border-left: 0px solid gray !important;
+        border-right: 0px solid gray !important;
+        padding: 5px 10px !important;
+        width: auto !important;
+    }
+
+    .table-plan {
+        border-collapse: collapse;
+        margin-left: 0px !important;
+        width: 96.7% !important;
+    }
+</style>
+
+<div
+    style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+    <h3 style="vertical-align: text-bottom;"><b>Reading to learn</b> (xx mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3"
+            style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231); background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+
+            <!-- TABLE HEADER -->
+
+            <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson
+                Plan</b>&#160;&#160;|&#160;&#160;<span
+                style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit x</b>&#160;<i>(SB: pp.6-7
+                    &amp; p.112, WB: p.6)</i></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- LEAD-IN -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Lead-in: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #1 &AMP; reading text, pp.6-7</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Introduce the topic</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentprelead11&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentprelead11" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- LEAD-IN - NOTE -->
+                    <b>Lead-in:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!-- READING STRATEGY -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Reading strategy:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #2 &amp; reading text, pp.6-7</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Understand and use the target reading strategy to read the text
+            effectively</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentprelis11&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentprelis11" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- READING STRATEGY - NOTE -->
+
+                    <b>Reading strategy:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- READING COMPREHENSION -->
+
+        <td><b>Reading comprehension:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #3 &amp; reading text, pp.6-7</li>
+
+            </ul>
+        </td>
+        <td>
+            Develop reading comprehension skills</td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentprespeak1&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentprespeak1" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- READING COMPREHENSION - NOTE -->
+                    <b>Reading comprehension:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- VOCABULARY -->
+
+        <td><b>Vocabulary: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB:
+                  <ul class="ul-circle">
+                    <li class="li-plan">#4 &amp; reading text, pp.6-7</li>
+                    <li class="li-plan">#3, p.112</li>
+                  </ul>
+              </li>
+                <li class="li-plan">WB: #3, p.6 (optional)</li>
+            </ul>
+        </td>
+        <td>Develop lexical resources</td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentprevoc111&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentprevoc111" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- VOCABULARY - NOTE -->
+
+                    <b>Vocabulary:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+<tr>
+    <!-- FREE PRODUCTION -->
+
+    <td><b>Free production: </b>
+        <ul class="ul-disc">
+            <li class="li-plan">SB: #5, p.6</li>
+            <li class="li-plan">Portfolio: p.2</li>
+        </ul>
+    </td>
+    <td>Use the target vocabulary to write or talk about the reading topic</td>
+    <td>
+        <p style="margin-bottom: 10px;"><button
+                onclick="var x=document.getElementById(&quot;idUniquedBoxContentprevoc211&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+        </p>
+        <div id="idUniquedBoxContentprevoc211" style="display: none; padding-left: 5px;">
+            <div>
+
+                <!-- FREE PRODUCTION - NOTE -->
+
+                <b>Free production:</b>
+                <ol class="ol-number">
+                    <li class="li-plan">tt </li>
+                </ol>
+            </div>
+        </div>
+    </td>
+    </tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="YS-Unit-opener"></a>***16. YS - Unit opener***
+
+<p align="center">
+<img src="asset/VideoYC.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: decimal !important;
+    }
+
+    .ul-disc {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: disc !important;
+    }
+
+    .ul-circle {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: circle !important;
+    }
+
+    .ul-square {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: square !important;
+    }
+
+    .li-plan {
+        margin: -10px 0px 5px 7px;
+    }
+
+    .table-plan td,
+    th {
+        border-left: 0px solid gray !important;
+        border-right: 0px solid gray !important;
+        padding: 5px 10px !important;
+        width: auto !important;
+    }
+
+    .table-plan {
+        border-collapse: collapse;
+        margin-left: 0px !important;
+        width: 96.7% !important;
+    }
+</style>
+
+<div
+    style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+    <h3 style="vertical-align: text-bottom;"><b>
+            Unit Opener</b> (xx mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3"
+            style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231);
+    background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+
+            <!-- TABLE HEADER -->
+
+            <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson
+                Plan</b>&#160;&#160;|&#160;&#160;<span
+                style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit xx</b>&#160;<i>(SB: pp.3-5
+                    &amp; p.112, WB: p.8)</i></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!--Lead-in-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Lead-in:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #1-2, pp.4-5</li>
+              <li class="li-plan">SB: #1, p.112 (optional)</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Introduce the topic and some vocabulary about the topic
+            <div style="margin-top: 5px;">Activate students' knowledge about the topic, and engage students</div>
+        </td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent216700&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent216700" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Lead-in - Note -->
+
+                    <b>Lead-in: </b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                      <li class="li-plan">Optional: tt</li>
+                    </ol>
+
+                </div>
+            </div>
+        </td>
+    </tr>
+
+  
+        <!-- Video -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Video: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #3-4, p.5</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">
+            Explore the topic
+        </td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent467899&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent467899" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Video - Note -->
+
+                    <b>Video:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="YS-Language-in-use"></a>***17. YS - Language in use***
+
+<p align="center">
+<img src="asset/VideoYC.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: decimal !important;
+    }
+
+    .ul-disc {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: disc !important;
+    }
+
+    .ul-circle {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: circle !important;
+    }
+
+    .ul-square {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: square !important;
+    }
+
+    .li-plan {
+        margin: -10px 0px 5px 7px;
+    }
+
+    .table-plan td,
+    th {
+        border-left: 0px solid gray !important;
+        border-right: 0px solid gray !important;
+        padding: 5px 10px !important;
+        width: auto !important;
+    }
+
+    .table-plan {
+        border-collapse: collapse;
+        margin-left: 0px !important;
+        width: 96.7% !important;
+    }
+</style>
+
+<div
+    style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+    <h3 style="vertical-align: text-bottom;"><b>Language in use 1</b> (xx mins)</h3>
+</div>
+<table class="table-plan">
+    <tr>
+        <th colspan="3"
+            style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231); background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+
+            <!-- TABLE HEADER -->
+
+            <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson
+                Plan</b>&#160;&#160;|&#160;&#160;<span
+                style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit x</b>&#160;<i>(SB: pp.8-9
+                    &amp; p.113, WB: p.8)</i></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- LANGUAGE IN CONTEXT -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Lead-in context:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #1, p.8
+
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">
+            Introduce the context
+        </td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentlangfot&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentlangfot" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- LEAD-IN CONTEXT - NOTE -->
+
+                    <b>Lead-in context: </b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                      
+                    </ol>
+
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!-- USE & FORM -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Use and form</b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: p.113</li>
+                <li class="li-plan">PPT: slides #2-8 (optional)</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Understand the use and form</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentuseformt&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentuseformt" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- USE & FORM - NOTE -->
+
+                    <b>Use and form: <i>Talking about past states and habits</i></b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!-- Controlled and semi-controlled practice -->
+
+    <tr>
+        <td><b>Controlled and semi-controlled practice:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB:
+                  <ul class="ul-circle">
+                    <li class="li-plan">#1, p.113</li>
+                     <li class="li-plan">#2-3, p.8</li>
+                  </ul>
+            </li>
+            </ul>
+        </td>
+        <td>Use the target grammar<br /></td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentconpract&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentconpract" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Controlled and semi-controlled practice - NOTE -->
+
+                    <b>Controlled and semi-controlled practice: </b>
+                    <ol class="ol-number">
+                      <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!-- FREE PRODUCTION -->
+
+    <tr>
+        <td><b>Free production:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #4-5, p.9</li>
+
+            </ul>
+        </td>
+        <td>Use the target grammar to talk or write about the topic </td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentfreeprot&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentfreeprot" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- FREE PRODUCTION - NOTE -->
+
+                    <b>Free production:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">tt</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="YS-Life-skills"></a>***18. YS - Life skills***
+
+<p align="center">
+<img src="asset/VideoYC.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: decimal !important;}
+    .ul-disc {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: disc !important;}
+    .ul-circle {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: circle !important;}
+    .ul-square { margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: square !important;}
+    .li-plan {margin: -10px 0px 5px 7px;}
+    .table-plan td, th {border-left: 0px solid gray !important; border-right: 0px solid gray !important; padding: 5px 10px !important; width: auto !important;}
+    .table-plan {border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
+</style>
+
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+
+    <h3 style="vertical-align: text-bottom;"><b>Life skills</b> (xx mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3" style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231);
+    background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+          
+<!-- TABLE HEADER -->
+          
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit xx</b>&#160;<i>(SB: pp.xx &#38; p.xx)</i></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- Lead-in -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Lead-in: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">Handout (optional)</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Introduce the topic, activate students' knowledge about the topic, and engage students</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent1234445&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent1234445" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Lead-in - Note -->                  
+                      <b>Lead-in: </b>
+                  <ol class="ol-number">
+                        <li class="li-plan">xxxx</li>
+                    
+                        <li class="li-plan">xxxx
+                        <ul class="ul-circle">
+                          <li class="li-plan"><i>xxxx</i></li>
+                        </ul></li>
+                    
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!--Exploring life skills strategy-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Exploring life skills strategy: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #xx, p.xx</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Understand the life skill strategy through a reading text</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2212sdffdrg&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2212sdffdrg" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Exploring life skills strategy - Note -->                  
+                  
+                    <b>Exploring life skills strategy:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">xx</li>
+                      
+                      <li class="li-plan"><b>#1:</b>
+                    <ul class="ul-circle">
+                        <li class="li-plan">xx</li>
+                      <li class="li-plan">xx</li>
+                        </ul></li>
+                      
+                    <li class="li-plan"><b>#2:</b>xx</li>
+                  </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Developing -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Developing: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: 
+                  <ul class="ul-circle">
+                  <li class="li-plan">#xx, p.xx</li> 
+                    <li class="li-plan">#xx, p.xx</li>
+                  </ul></li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">
+          Introduce the target vocabulary about the topic
+          <div style="margin-top: 5px;">Understand how the target life skills work</div>
+<div style="margin-top: 5px;">Develop listening / speaking skills through a real life context</div></td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent22216yyrdf&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent22216yyrdf" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Developing - Note -->                  
+                  
+                    <b>Developing:</b><br />
+                    <b>Vocabulary</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">xx</li>
+                    </ol>
+                    <b>Listening</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">xx</li>
+                      
+                      <li class="li-plan"><b>#xx:</b> 
+                        <ul class="ul-circle">
+                         <li class="li-plan">xx</li>
+                      <li class="li-plan">xx</li>
+                        </ul></li>
+
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!--Applying-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Applying: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #xx, p.xx</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Use the target life skills in a real life context through a speaking and / or writing activity</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2231q23wrsg&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2231q23wrsg" style="display: none; padding-left: 5px;">
+                <div>
+
+<!-- Applying - Note -->                  
+                  
+                    <b>Applying:</b><br />
+                  <b>#Speaking</b><br/>
+                    <ol class="ol-number">
+                      <li class="li-plan"><b>#xx:</b>
+                        <ul class="ul-circle">
+                         <li class="li-plan">xx</li>
+                        <li class="li-plan">xx</li>
+                        </ul></li>
+                      
+                      <li class="li-plan">xx</li>
+                  </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="YS-Unit-reflect"></a>***19. YS - Unit reflect***
+
+<p align="center">
+<img src="asset/VideoYC.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: decimal !important;}
+    .ul-disc {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: disc !important;}
+    .ul-circle {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: circle !important;}
+    .ul-square { margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: square !important;}
+    .li-plan {margin: -10px 0px 5px 7px;}
+    .table-plan td, th {border-left: 0px solid gray !important; border-right: 0px solid gray !important; padding: 5px 10px !important; width: auto !important;}
+    .table-plan { border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
+</style>
+
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+    <h3 style="vertical-align: text-bottom;"><b>
+            Unit reflect</b> (10 mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3" style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231); background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+          
+<!-- TABLE HEADER -->
+          
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit xx</b> <i>(SB: p.xx)</i></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- Unit reflect -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Unit reflect: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #1, p.xx</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Reflect on what students have learned in the unit</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2657543&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2657543" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Unit reflect - Note -->              
+                  <b>Unit reflect: </b>
+                      <ol class="ol-number">
+                        <li class="li-plan"><b>#1:</b> Go through the 5 questions. Elicit ideas from individual students. </li>
+                          <li class="li-plan"><b>Reflect:</b> Ask students to share: <i>What is the most interesting / What is the new thing you learned from this unit?</i></li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="YS-Writing"></a>***20. YS - Writing***
+
+<p align="center">
+<img src="asset/VideoYC.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: decimal !important;
+    }
+
+    .ul-disc {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: disc !important;
+    }
+
+    .ul-circle {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: circle !important;
+    }
+
+    .ul-square {
+        margin-top: 11px !important;
+        margin-bottom: 10px !important;
+        margin-left: -1px !important;
+        list-style-type: square !important;
+    }
+
+    .li-plan {
+        margin: -10px 0px 5px 7px;
+    }
+
+    .table-plan td,
+    th {
+        border-left: 0px solid gray !important;
+        border-right: 0px solid gray !important;
+        padding: 5px 10px !important;
+        width: auto !important;
+    }
+
+    .table-plan {
+        border-collapse: collapse;
+        margin-left: 0px !important;
+        width: 96.7% !important;
+    }
+</style>
+
+<div
+    style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+
+    <h3 style="vertical-align: text-bottom;"><b>Writing </b> (xx mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3"
+            style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231);
+    background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+
+            <!-- TABLE HEADER -->
+
+            <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson
+                Plan</b>&#160;&#160;|&#160;&#160;<span
+                style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 5</b> <i>(SB: pp.56-57)</i></span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- Lead-in -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Lead-in </b>
+
+        </td>
+        <td style="border-bottom: 1px solid silver;">Introduce the topic, activate students' knowledge about the topic, and engage students</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwrilead12&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentwrilead12" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Lead-in - Note -->
+
+                    <b>Lead-in:</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">Ask: <i>xx</i> xxxx</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!--Analyzing the task-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Analyzing the task: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #xx, p.xx</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Understand the writing task</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwribrain21&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentwribrain21" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Analyzing the task - Note -->
+
+                  <b>Analyzing the task:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">xx</li>
+                      
+                      <li class="li-plan"><b>#xx:</b> 
+                          <ul class="ul-circle">
+                          <li class="li-plan">xx</li>
+                        <li class="li-plan">xx</li>
+                          </ul></li>
+                     
+                  <li class="li-plan">xx</li>
+                  </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Writing skills and practice -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Writing skills and practice:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: 
+                  <ul class="ul-circle">
+                  <li class="li-plan">#xx, pp.xx</li> 
+                  <li class="li-plan">#xx, p.xx</li>
+                  </ul></li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">
+          Understand how to use the writing strategy
+          <div style="margin-top: 5px;">Brainstorm and organize ideas for the writing task</div>
+  <div style="margin-top: 5px;">Understand and use the target language</div>
+      </td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwrishare35&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentwrishare35" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Writing skills and practice - Note -->
+
+                  <b>Writing skills and practice:</b><br/>
+                  <b>subtitle</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">xx</li>
+                      
+                      <li class="li-plan"><b>#xx:</b>
+                     <ul class="ul-circle">
+                       <li class="li-plan">xx</li>
+                    <li class="li-plan">xx</li>
+                      </ul></li>
+                      
+                  <li class="li-plan">xx</li>
+                  </ol>
+                  
+                  <b>subtitle<br/>
+                  #xx</b>
+                  <ol class="ol-number">
+                    <li class="li-plan">xx</li>
+                    <li class="li-plan">xx</li>
+                    <li class="li-plan">xx
+                    <ul class="ul-circle">
+                      <li class="li-plan">xx</li>
+                        <li class="li-plan">xx</li>
+                    </ul></li>
+                  </ol>
+                  
+                  <b>subtitle</b>
+                  <ol class="ol-number">
+                    <li class="li-plan"><b>#xx:</b>
+                     <ul class="ul-circle">
+                       <li class="li-plan">xx</li>
+                    <li class="li-plan">xx</li>
+                      </ul></li>
+                    <li class="li-plan">xx</li>
+                  </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!--Writing-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Writing: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">SB: #xx, p.xx</li>
+                <li class="li-plan">Portfolio: pp.xx</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Apply the writing strategy and target language for students' writing
+          <div style="margin-top: 5px;">Develop writing skills</div>
+  <div style="margin-top: 5px;">Improve students' work</div>
+      </td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContentwriprac43&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContentwriprac43" style="display: none; padding-left: 5px;">
+                <div>
+
+                    <!-- Writing -->
+
+                  <b>Writing:<br/>
+                    Writing first draft</b><br/>
+                  <b>#xx</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">xx</li>
+                    </ol>
+                  <b>Review and edit<br/>
+                  #xx</b>
+                      <ol class="ol-number">
+                      <li class="li-plan">xx</li>
+                        <li class="li-plan">xx</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+</table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="YS-Project"></a>***21. YS - Project***
+
+<p align="center">
+<img src="asset/VideoYC.jpg" alt="" width="auto" />
+</p>
+
+```
+<style>
+    .ol-number {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: decimal !important;}
+    .ul-disc {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: disc !important;}
+    .ul-circle {margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: circle !important;}
+    .ul-square { margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: square !important;}
+    .li-plan {margin: -10px 0px 5px 7px;}
+    .table-plan td, th {border-left: 0px solid gray !important; border-right: 0px solid gray !important; padding: 5px 10px !important; width: auto !important;}
+    .table-plan {border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
+</style>
+
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
+
+    <h3 style="vertical-align: text-bottom;"><b>Project</b> (110 mins)</h3>
+</div>
+
+<table class="table-plan">
+    <tr>
+        <th colspan="3" style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231);
+    background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+          
+<!-- TABLE HEADER -->
+          
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit xx</b>&#160;</span>
+        </th>
+    </tr>
+    <tr>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        </td>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
+        <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
+        </td>
+    </tr>
+
+    <!-- Lead-in &  sharing-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Lead-in &#38; sharing: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">Porfolio: p.xx</li>
+            </ul>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Introduce the topic, activate students' knowledge about the topic, and engage students</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent1236&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent1236" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Lead-in & sharing- Note -->                  
+                  <b>Lead-in &#38; sharing: </b><br/>
+                    <b>Class discussion</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Direct students to the photos of day trip ideas and discuss the questions with the whole class.</li>
+                    </ol>
+                      <b>Group discussion</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Have students look at the activities in the mind map and discuss the questions.</li>
+                      <li class="li-plan">Encourage students to complete the mind map. (Portfolio)</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!--Understanding the task-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Understanding the task</b>
+        </td>
+        <td style="border-bottom: 1px solid silver;">Understand the requirement of the project and how the project should be done.
+</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2213&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2213" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Understanding the task - Note -->                  
+                  <b>Understanding the task:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">Explain the project to the students</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!-- Exploring -->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>Exploring: </b>
+            <ul class="ul-disc">
+                <li class="li-plan">Portfolio: p.xx</li>
+            </ul>
+        </td>
+         <td style="border-bottom: 1px solid silver;">Understand and talk about the topic
+          <div style="margin-top: 5px;">Use the content input to brainstorm for the project</div>
+          <div style="margin-top: 5px;">Brainstorm ideas for the project</div>
+      </td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2223&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2223" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Exploring - Note -->                  
+                  <b>Exploring: </b><br/>
+                    <b>Pair work</b><br />
+                    <ol class="ol-number">
+                        <li class="li-plan">xx</li>
+                        <li class="li-plan">xx</li>
+                    </ol>
+                    <b>Discussion</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">xx</li>
+                      
+                        <li class="li-plan">xx
+                 <ul class="ul-circle">
+                   <li class="li-plan"><i>xx</i></li>
+                     <li class="li-plan"><i>xx</i></li>
+                      </ul></li>
+                      
+                      <li class="li-plan">xx</li>   
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <tr>
+
+        <!--Designing-->
+
+    <tr>
+        <td style="border-bottom: 1px solid silver;"><b>Designing</b></td>
+        <td style="border-bottom: 1px solid silver;">Make a product
+</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2239&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2239" style="display: none; padding-left: 5px;">
+                <div>
+
+<!-- Designing - Note -->                  
+                  <b>Designing:</b><br/>
+                    <b>Discussion</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">xx
+                      <ul class="ul-circle">
+                        <li class="li-plan"><i>xx</i></li>
+                        <li class="li-plan"><i>xx</i></li>
+                      </ul></li>
+                      
+                      <li class="li-plan">xx</li>
+                      
+                      <li class="li-plan">xx</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+        <!-- Preparing for the presentation -->
+<tr>
+        <td><b>Preparing for the presentation:</b>
+            <ul class="ul-disc">
+                <li class="li-plan">Portfolio : p.9</li>
+            </ul>
+        </td>
+        <td>Organize the ideas for students' presentation
+          <div style="margin-top: 5px;">Understand the useful language</div></td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2510&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2510" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Preparing for the presentation - Note -->                  
+                  <b>Preparing for the presentation:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">xx
+                   <ul class="ul-circle">
+                     <li class="li-plan"><i>xx</i></li>
+                          <li class="li-plan"><i>xx</i></li>
+                      </ul></li>
+                      
+                        <li class="li-plan">xx</li>
+                      
+                        <li class="li-plan">xx</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+    <!--Presenting-->
+
+    <tr>
+        <td><b>Presenting</b></td>
+        <td>Talk about the product
+<div style="margin-top: 5px;">Apply the useful language to present students' ideas in an organized way</div></td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2413&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2413" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Presenting - Note -->
+                  <b>Presenting:</b>
+                    <ol class="ol-number">
+                        <li class="li-plan">xx</li>
+                        <li class="li-plan">xx</li>
+                        <li class="li-plan">xx</li>
+                    </ol>
+                </div>
+            </div>
+        </td>
+    </tr>
+    <!--Feedback & Wrap-up-->
+
+    <tr>
+        <td><b>Feedback &#38; Wrap-up</b></td>
+        <td>Improve students' work </td>
+        <td>
+            <p style="margin-bottom: 10px;"><button
+                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2445gg6&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent2445gg6" style="display: none; padding-left: 5px;">
+                <div>
+                  
+<!-- Feedback & Wrap-up - Note -->  
+                  <b>Feedback &#38; Wrap-up:</b>
+                   <ol class="ol-number">
+                        <li class="li-plan">xx</li>
+                        <li class="li-plan">xx
+                         <ul class="ul-circle">
+                           <li class="li-plan"><i>xx</i></li>
+               <li class="li-plan"><i>xx</i></li>
+                     </ul></li>  
+                     
+                        <li class="li-plan">xx</li>
+                     
+                        <li class="li-plan">xx</li>
+                     
                     </ol>
                 </div>
             </div>
