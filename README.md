@@ -17,7 +17,7 @@
 | 012.  |[Homework correction](#Homework-correction)|
 | 013.  |[Video for YC](#Video-YC)|
 | 014.  |[YS - Lesson lead in](#YS-Lesson-lead-in)|
-| 015.  |[YS - Reading-to-learn](#YS-Reading to learn)|
+| 015.  |[YS - Reading-to-learn](#YS-Reading-to-learn)|
 | 016.  |[YS - Unit opener](#YS-Unit-opener)|
 | 017.  |[YS - Language in use](#YS-Language-in-use)|
 | 018.  |[YS - Life skills](#YS-Life-skills)|
@@ -2289,9 +2289,6 @@ Understand the vocabulary</td>
 
 ## <a id="YS-Unit-opener"></a>***16. YS - Unit opener***
 
-<p align="center">
-<img src="asset/VideoYC.jpg" alt="" width="auto" />
-</p>
 
 ```
 <style>
@@ -2443,9 +2440,7 @@ Understand the vocabulary</td>
 
 ## <a id="YS-Language-in-use"></a>***17. YS - Language in use***
 
-<p align="center">
-<img src="asset/VideoYC.jpg" alt="" width="auto" />
-</p>
+
 
 ```
 <style>
@@ -2650,9 +2645,7 @@ Understand the vocabulary</td>
 
 ## <a id="YS-Life-skills"></a>***18. YS - Life skills***
 
-<p align="center">
-<img src="asset/VideoYC.jpg" alt="" width="auto" />
-</p>
+
 
 ```
 <style>
@@ -2849,9 +2842,6 @@ Understand the vocabulary</td>
 
 ## <a id="YS-Unit-reflect"></a>***19. YS - Unit reflect***
 
-<p align="center">
-<img src="asset/VideoYC.jpg" alt="" width="auto" />
-</p>
 
 ```
 <style>
@@ -2922,9 +2912,7 @@ Understand the vocabulary</td>
 
 ## <a id="YS-Writing"></a>***20. YS - Writing***
 
-<p align="center">
-<img src="asset/VideoYC.jpg" alt="" width="auto" />
-</p>
+
 
 ```
 <style>
@@ -3181,9 +3169,7 @@ Understand the vocabulary</td>
 
 ## <a id="YS-Project"></a>***21. YS - Project***
 
-<p align="center">
-<img src="asset/VideoYC.jpg" alt="" width="auto" />
-</p>
+
 
 ```
 <style>
