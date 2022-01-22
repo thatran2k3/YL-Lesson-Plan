@@ -2818,7 +2818,7 @@ Understand the vocabulary</td>
 <!-- Applying - Note -->                  
                   
                     <b>Applying:</b><br />
-                  <b>#Speaking</b><br/>
+                  <b>Speaking</b><br/>
                     <ol class="ol-number">
                       <li class="li-plan"><b>#xx:</b>
                         <ul class="ul-circle">
