@@ -2343,7 +2343,7 @@ Understand the vocabulary</td>
 <div
     style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
     <h3 style="vertical-align: text-bottom;"><b>
-            Unit Opener</b> (xx mins)</h3>
+            Unit opener</b> (xx mins)</h3>
 </div>
 
 <table class="table-plan">
