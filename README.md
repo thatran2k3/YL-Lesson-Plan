@@ -2552,7 +2552,7 @@ Understand the vocabulary</td>
     <!-- USE & FORM -->
 
     <tr>
-        <td style="border-bottom: 1px solid silver;"><b>Use and form</b>
+        <td style="border-bottom: 1px solid silver;"><b>Use &amp; form:</b>
             <ul class="ul-disc">
                 <li class="li-plan">SB: p.113</li>
                 <li class="li-plan">PPT: slides #2-8 (optional)</li>
@@ -2568,7 +2568,7 @@ Understand the vocabulary</td>
 
                     <!-- USE & FORM - NOTE -->
 
-                    <b>Use and form: <i>Talking about past states and habits</i></b>
+                    <b>Use &amp; form: <i>Talking about past states and habits</i></b>
                     <ol class="ol-number">
                         <li class="li-plan">tt</li>
                     </ol>
