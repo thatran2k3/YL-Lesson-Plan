@@ -2373,8 +2373,13 @@ Understand the vocabulary</td>
     <tr>
         <td style="border-bottom: 1px solid silver;"><b>Lead-in:</b>
             <ul class="ul-disc">
-                <li class="li-plan">SB: #1-2, pp.4-5</li>
-              <li class="li-plan">SB: #1, p.112 (optional)</li>
+                <li class="li-plan">SB:
+		<ul class ="ul-circle">
+		 <li class="li-plan">#xx, pp.xx</li>
+		 <li class="li-plan">#xx, p.x (optional)</li>
+		</ul>
+		</li>
+              <li class="li-plan">WB: #xx, p.x (optional)</li>
             </ul>
         </td>
         <td style="border-bottom: 1px solid silver;">Introduce the topic and some vocabulary about the topic
