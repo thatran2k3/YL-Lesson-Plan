@@ -25,6 +25,10 @@
 | 020.  |[YS - Writing](#YS-Writing)|
 | 021.  |[YS - Project](#YS-Project)|
 | 022.  |[YS - PET oral practice](#YS-PET-oral-practice)|
+| 023.  |[Warm-up & Review](#Warm-up-&-review)|
+| 024.  |[Home assignment - yes](#Home-assignment-yes)|
+| 025.  |[Home assignment - no](#Home-assignment-no)|
+| 026.  |[Homework correction](#Homework-correction)|
 ## <a id="The-Real-World"></a>***1. The Real World***
 <p align="center">
 <img src="asset/Therealword.jpg" alt="" width="auto" />
@@ -3552,6 +3556,56 @@ Understand the vocabulary</td>
         </td>
     </tr>
 </table>
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="Warm-up-&-review"></a>***23. Warm-up & Review***
+
+```
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Warm-up &amp; Review ( 10 mins - optional)</b></h3></div>
+<p style="margin-bottom: 5px"></p>
+This is optional but you may want to begin the session with an interactive activity. Please feel free to come up with one that fits. 
+
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="Home-assignment-yes"></a>***24. Home assignment - yes***
+
+```
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Home assignment</b></h3></div>
+<p style="margin-bottom: 5px"></p>Before ending the session, please remind your students of completing their homework exercises in the After-Class section.
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+## <a id="Home-assignment-no"></a>***25. Home assignment - no***
+
+```
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Home assignment</b></h3></div>
+<p style="margin-bottom: 5px"></p>There are no homework exercises for you in this session. Enjoy your little break!
+```
+
+<div align="right">
+<b><a href="#Content">↥ back to top</a></b>
+</div>
+
+
+## <a id="Homework-correction"></a>***26. Homework correction***
+
+```
+<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Homework correction (10 mins)</b></h3></div>
+<p style="margin-bottom: 5px"></p>
+Language focus: #x (WB, p.xx)
 ```
 
 <div align="right">
