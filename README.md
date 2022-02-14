@@ -12,21 +12,20 @@
 | 07.  |[Writing](#Writing)|
 | 08.  |[Mini project](#Mini-project)|
 | 09.  |[KET oral practice](#KET-oral-practice)|
-
-| 013.  |[Video for YC](#Video-YC)|
-| 014.  |[YS - Lesson lead in](#YS-Lesson-lead-in)|
-| 015.  |[YS - Reading-to-learn](#YS-Reading-to-learn)|
-| 016.  |[YS - Unit opener](#YS-Unit-opener)|
-| 017.  |[YS - Language in use](#YS-Language-in-use)|
-| 018.  |[YS - Life skills](#YS-Life-skills)|
-| 019.  |[YS - Unit reflect](#YS-Unit-reflect)|
-| 020.  |[YS - Writing](#YS-Writing)|
-| 021.  |[YS - Project](#YS-Project)|
-| 022.  |[YS - PET oral practice](#YS-PET-oral-practice)|
-| 023.  |[Warm-up & Review](#Warm-up-&-review)|
-| 024.  |[Home assignment - yes](#Home-assignment-yes)|
-| 025.  |[Home assignment - no](#Home-assignment-no)|
-| 026.  |[Homework correction](#Homework-correction)|
+| 010.  |[Video for YC](#Video-YC)|
+| 011.  |[YS - Lesson lead in](#YS-Lesson-lead-in)|
+| 012.  |[YS - Reading-to-learn](#YS-Reading-to-learn)|
+| 013.  |[YS - Unit opener](#YS-Unit-opener)|
+| 014.  |[YS - Language in use](#YS-Language-in-use)|
+| 015.  |[YS - Life skills](#YS-Life-skills)|
+| 016.  |[YS - Unit reflect](#YS-Unit-reflect)|
+| 017.  |[YS - Writing](#YS-Writing)|
+| 018.  |[YS - Project](#YS-Project)|
+| 019.  |[YS - PET oral practice](#YS-PET-oral-practice)|
+| 020.  |[Warm-up & Review](#Warm-up-&-review)|
+| 021.  |[Home assignment - yes](#Home-assignment-yes)|
+| 022.  |[Home assignment - no](#Home-assignment-no)|
+| 023.  |[Homework correction](#Homework-correction)|
 ## <a id="The-Real-World"></a>***1. The Real World***
 <p align="center">
 <img src="asset/Therealword.jpg" alt="" width="auto" />
@@ -1738,7 +1737,7 @@ Review</b> (50 mins)</h3>
 
 
 
-## <a id="Video-YC"></a>***13. Video for YC***
+## <a id="Video-YC"></a>***10. Video for YC***
 
 <p align="center">
 <img src="asset/VideoYC.jpg" alt="" width="auto" />
@@ -1939,7 +1938,7 @@ Understand the vocabulary</td>
 </div>
 
 
-## <a id="YS-Lesson-lead-in"></a>***14. YS Lesson lead in***
+## <a id="YS-Lesson-lead-in"></a>***11. YS Lesson lead in***
 
 
 
@@ -2013,7 +2012,7 @@ Understand the vocabulary</td>
 
 
 
-## <a id="YS-Reading-to-learn"></a>***15. YS - Reading to learn***
+## <a id="YS-Reading-to-learn"></a>***12. YS - Reading to learn***
 
 
 
@@ -2241,7 +2240,7 @@ Understand the vocabulary</td>
 </div>
 
 
-## <a id="YS-Unit-opener"></a>***16. YS - Unit opener***
+## <a id="YS-Unit-opener"></a>***13. YS - Unit opener***
 
 
 ```
@@ -2397,7 +2396,7 @@ Understand the vocabulary</td>
 </div>
 
 
-## <a id="YS-Language-in-use"></a>***17. YS - Language in use***
+## <a id="YS-Language-in-use"></a>***14. YS - Language in use***
 
 
 
@@ -2602,7 +2601,7 @@ Understand the vocabulary</td>
 </div>
 
 
-## <a id="YS-Life-skills"></a>***18. YS - Life skills***
+## <a id="YS-Life-skills"></a>***15. YS - Life skills***
 
 
 
@@ -2799,7 +2798,7 @@ Understand the vocabulary</td>
 </div>
 
 
-## <a id="YS-Unit-reflect"></a>***19. YS - Unit reflect***
+## <a id="YS-Unit-reflect"></a>***16. YS - Unit reflect***
 
 
 ```
@@ -2869,7 +2868,7 @@ Understand the vocabulary</td>
 </div>
 
 
-## <a id="YS-Writing"></a>***20. YS - Writing***
+## <a id="YS-Writing"></a>***17. YS - Writing***
 
 
 
@@ -3126,7 +3125,7 @@ Understand the vocabulary</td>
 </div>
 
 
-## <a id="YS-Project"></a>***21. YS - Project***
+## <a id="YS-Project"></a>***18. YS - Project***
 
 
 
@@ -3395,7 +3394,7 @@ Understand the vocabulary</td>
 </div>
 
 
-## <a id="YS-PET-oral-practice"></a>***22. YS - PET oral practice***
+## <a id="YS-PET-oral-practice"></a>***19. YS - PET oral practice***
 
 ```
 <style>
@@ -3512,7 +3511,7 @@ Understand the vocabulary</td>
 </div>
 
 
-## <a id="Warm-up-&-review"></a>***23. Warm-up & Review***
+## <a id="Warm-up-&-review"></a>***20. Warm-up & Review***
 
 ```
 <div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Warm-up &amp; Review ( 10 mins - optional)</b></h3></div>
@@ -3526,7 +3525,7 @@ This is optional but you may want to begin the session with an interactive activ
 </div>
 
 
-## <a id="Home-assignment-yes"></a>***24. Home assignment - yes***
+## <a id="Home-assignment-yes"></a>***21. Home assignment - yes***
 
 ```
 <div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Home assignment</b></h3></div>
@@ -3537,7 +3536,7 @@ This is optional but you may want to begin the session with an interactive activ
 <b><a href="#Content">↥ back to top</a></b>
 </div>
 
-## <a id="Home-assignment-no"></a>***25. Home assignment - no***
+## <a id="Home-assignment-no"></a>***22. Home assignment - no***
 
 ```
 <div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Home assignment</b></h3></div>
@@ -3549,7 +3548,7 @@ This is optional but you may want to begin the session with an interactive activ
 </div>
 
 
-## <a id="Homework-correction"></a>***26. Homework correction***
+## <a id="Homework-correction"></a>***23. Homework correction***
 
 ```
 <div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Homework correction (10 mins)</b></h3></div>
