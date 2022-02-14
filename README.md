@@ -12,9 +12,7 @@
 | 07.  |[Writing](#Writing)|
 | 08.  |[Mini project](#Mini-project)|
 | 09.  |[KET oral practice](#KET-oral-practice)|
-| 010.  |[Warm up & Review](#Warm-up-and-Review)|
-| 011.  |[Home assignment](#Home-assignment)|
-| 012.  |[Homework correction](#Homework-correction)|
+
 | 013.  |[Video for YC](#Video-YC)|
 | 014.  |[YS - Lesson lead in](#YS-Lesson-lead-in)|
 | 015.  |[YS - Reading-to-learn](#YS-Reading-to-learn)|
