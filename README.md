@@ -1736,55 +1736,6 @@ Review</b> (50 mins)</h3>
 </div>
 
 
-## <a id="Warm-up-and-Review"></a>***10. Warm up & Review***
-
-<p align="center">
-<img src="asset/WarmupnReview.jpg" alt="" width="auto" />
-</p>
-
-```
-<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Warm-up &amp; Review ( 10 mins - optional)</b></h3></div>
-<p style="margin-bottom: 5px"></p>
-This is optional but you may want to begin the session with an interactive activity. Please feel free to come up with one that fits. 
-
-```
-
-<div align="right">
-<b><a href="#Content">↥ back to top</a></b>
-</div>
-
-
-## <a id="Home-assignment"></a>***11. Home assignment***
-
-<p align="center">
-<img src="asset/Homeassignment.jpg" alt="" width="auto" />
-</p>
-
-```
-<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Home assignment</b></h3></div>
-<p style="margin-bottom: 5px"></p>Before ending the session, please remind your students of completing the exercises on the "Language Focus" and "Preview" for grading. They can find these exercises in the After-Class session.
-```
-
-<div align="right">
-<b><a href="#Content">↥ back to top</a></b>
-</div>
-
-
-## <a id="Homework-correction"></a>***12. Homework correction***
-
-<p align="center">
-<img src="asset/HWcorrection.jpg" alt="" width="auto" />
-</p>
-
-```
-<div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;"><h3 style="vertical-align: text-bottom;"><b>Homework correction (10 mins)</b></h3></div>
-<p style="margin-bottom: 5px"></p>
-Language focus: #B (WB, p. 93)
-```
-
-<div align="right">
-<b><a href="#Content">↥ back to top</a></b>
-</div>
 
 
 ## <a id="Video-YC"></a>***13. Video for YC***
