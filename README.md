@@ -39,22 +39,20 @@
     .ul-square { margin-top: 11px !important; margin-bottom: 10px !important; margin-left: -1px !important; list-style-type: square !important;}
     .li-plan {margin: -10px 0px 5px 7px;}
     .table-plan td, th {border-left: 0px solid gray !important; border-right: 0px solid gray !important; padding: 5px 10px !important; width: auto !important;}
-    .table-plan {border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
+    .table-plan { border-collapse: collapse; margin-left: 0px !important; width: 96.7% !important;}
 </style>
 
 <div style="background: url('http://lms.vus.edu.vn/asset-v1:VUS+VF+2022+type@asset+block@Background_bar_8.png') no-repeat; background-size: 100% 100%; background-position: left; padding: 10px 25px 3px 25px; margin-bottom: 0px; margin-top: 0px; margin-left: -15px; display: inline-block;">
-<h3 style="vertical-align: text-bottom;"><b>The real world</b> (65 mins)</h3>
+    <h3 style="vertical-align: text-bottom;"><b>The Real World</b> (100 mins)</h3>
 </div>
 
 <table class="table-plan">
     <tr>
-        <th colspan="3" style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231);
-    background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
-
+        <th colspan="3" style="border: 0px solid white; border-radius: 10px 10px 0px 0px; background: rgb(255,212,231); background: linear-gradient(321deg, rgba(255,212,231,1) 2%, rgba(236,160,193,1) 27%, rgba(168,207,255,1) 70%, rgba(228,236,247,1) 100%);">
+          
 <!-- TABLE HEADER -->
           
-<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span>
-        </th>
+<b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp. 10-11)</i></span></th>
     </tr>
     <tr>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b></td>
@@ -62,164 +60,145 @@
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b></td>
     </tr>
 
-    <!-- LEAD-IN -->
+    <!--Before you watch-->
 
     <tr>
-        <td style="border-bottom: 1px solid silver;"><b>Lead-in: </b>
+        <td style="border-bottom: 1px solid silver;"><b>Before you watch: </b>
             <ul class="ul-disc">
-                <li class="li-plan">SB: the photo on p.12</li>
+              <li class="li-plan">SB: the photo on p. 10</li>
+              <li class="li-plan">PPT</li>
             </ul>
         </td>
         <td style="border-bottom: 1px solid silver;">Introduce the topic / content</td>
         <td style="border-bottom: 1px solid silver;">
-            <p style="margin-bottom: 10px;"><button onclick="var x=document.getElementById(&quot;idUniquedBoxContent1234&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button></p>
-            <div id="idUniquedBoxContent1234" style="display: none; padding-left: 5px;">
+            <p style="margin-bottom: 10px;"><button onclick="var x=document.getElementById(&quot;idUniquedBoxContent2157&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button></p>
+            <div id="idUniquedBoxContent2157" style="display: none; padding-left: 5px;">
                 <div>
                   
-<!-- LEAD-IN - NOTES -->                  
+<!-- Before you watch - Note -->                  
                   
-                    <p style ="margin-bottom: 20px;"></p>
+                    <b>Lead-in</b>
                     <ol class="ol-number">
-                        <li class="li-plan"></li>
+                      <li class="li-plan">Have students look at the photo and the tile, then discuss the following questions: <i>What activities does she like to do? What do you think BIRDGIRL mean? Are there lots of birds in your city/town? Do you think watching birds is a fun activity? Why (not)?</i></li>
+                    </ol>
+                  
+                    <b>Vocabulary</b>
+                    <ol class="ol-number">
+                      <li class="li-plan">Have students look at the photos and match them with the correct words. (PPT)<br/>
+                        <i><u>Vocabulary:</u> hiking, diving, travelling around the world, visiting places of nature, climbing, canoeing</i>
+</li>
+                      <li class="li-plan">Have students play a game to review the vocabulary that they have just learned.</li>
                     </ol>
                 </div>
             </div>
         </td>
     </tr>
 
-    <!--INTRODUCE THE CONTEXT-->
+    <!--While you watch-->
 
     <tr>
-        <td style="border-bottom: 1px solid silver;"><b>Introduce the context: </b>
+        <td style="border-bottom: 1px solid silver;"><b>While you watch: </b>
             <ul class="ul-disc">
-                <li class="li-plan">PPT: slides #2-3</li>
+              <li class="li-plan">SB: #A-B, p. 10</li>
+              <li class="li-plan">PPT</li>
             </ul>
         </td>
-        <td style="border-bottom: 1px solid silver;">Build listening and speaking skills in a real-life context</td>
+        <td style="border-bottom: 1px solid silver;">Understand the content (Video)<p style="margin-bottom: 5px"></p>
+Build listening skills in a real-life context
+</td>
         <td style="border-bottom: 1px solid silver;">
-            <p style="margin-bottom: 10px;"><button
-                    onclick="var x=document.getElementById(&quot;idUniquedBoxContent2212&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            <p style="margin-bottom: 10px;"><button onclick="var x=document.getElementById(&quot;idUniquedBoxContent2278&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
             </p>
-            <div id="idUniquedBoxContent2212" style="display: none; padding-left: 5px;">
+            <div id="idUniquedBoxContent2278" style="display: none; padding-left: 5px;">
                 <div>
                   
-<!-- INTRODUCE THE CONTEXT - NOTES -->                  
+<!-- While you watch - Note -->                  
                   
-                    <p style="margin-bottom: 20px;"></p>
-                    <ol class="ol-number">
-                        <li class="li-plan"></li>
-                    </ol>
-                </div>
-            </div>
-        </td>
-    </tr>
-    <tr>
-
-        <!-- EXPLORE -->
-
-    <tr>
-        <td style="border-bottom: 1px solid silver;">
-            <b>Explore:</b>
-            <ul class="ul-disc">
-                <li class="li-plan">SB: #A&amp;B, p.12</li>
-            </ul>
-        </td>
-        <td style="border-bottom: 1px solid silver;">Build listening and speaking skills in a real-life context</td>
-        <td style="border-bottom: 1px solid silver;">
-            <p style="margin-bottom: 10px;"><button onclick="var x=document.getElementById(&quot;idUniquedBoxContent2221&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button></p>
-            <div id="idUniquedBoxContent2221" style="display: none; padding-left: 5px;">
-                <div>
-                  
-<!-- EXPLORE - NOTES -->                  
-                  
-                    <p style="margin-bottom: 20px;"></p>
-                    <ol class="ol-number">
-                        <li class="li-plan"</li>
-                    </ol>
-                </div>
-            </div>
-        </td>
-    </tr>
-    <tr>
-
-        <!--SPEAKING-->
-
-    <tr>
-        <td style="border-bottom: 1px solid silver;">
-            <b>Speaking: </b>
-            <ul class="ul-disc">
-                <li class="li-plan">Portfolio: p.10</li>
-                <li class="li-plan">PPT: slide #4</li>
-            </ul>
-        </td>
-        <td style="border-bottom: 1px solid silver;">Build listening and speaking skills in a real-life context</td>
-        <td style="border-bottom: 1px solid silver;">
-            <p style="margin-bottom: 10px;"><button onclick="var x=document.getElementById(&quot;idUniquedBoxContent2231&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button></p>
-            <div id="idUniquedBoxContent2231" style="display: none; padding-left: 5px;">
-                <div>
-
-<!-- SPEAKING - NOTES -->                  
-                  
-                    <p style="margin-bottom: 20px;"></p>
+            <b>#A</b>
 		    <ol class="ol-number">
-                      <li class="li-plan"></li>
-                    </ol>
+              <li class="li-plan">Have students read the sentences in #A, highlight the keywords, and guess the answers.</li>
+              <li class="li-plan">Play the video and have students complete the task. </li>
+              <li class="li-plan">Go through the answers as a class.</li>
+            </ol>
+                  
+            <b>#B</b>
+		    <ol class="ol-number">
+              <li class="li-plan">Have students read the passage and guess what kind of information to fill in the blanks. (PPT)</li>
+              <li class="li-plan">Have students watch the video again and go through the answers as a class.</li>
+            </ol>
                 </div>
             </div>
         </td>
     </tr>
     <tr>
 
-        <!-- PRONUNCIATION -->
+        <!-- After you watch -->
 
-        <td><b>Pronunciation:</b>
+    <tr>
+        <td style="border-bottom: 1px solid silver;">
+            <b>After you watch: </b>
             <ul class="ul-disc">
-                <li class="li-plan">SB: p.13</li>
+                <li class="li-plan">PPT</li>
+                <li class="li-plan">Handout</li>
             </ul>
+
         </td>
-        <td>Practice pronunciation</td>
-        <td>
-            <p style="margin-bottom: 10px;"><button onclick="var x=document.getElementById(&quot;idUniquedBoxContent2512&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button></p>
-            <div id="idUniquedBoxContent2512" style="display: none; padding-left: 5px;">
+        <td style="border-bottom: 1px solid silver;">Talk about the content (Video)</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button onclick="var x=document.getElementById(&quot;idUniquedBoxContent2229&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button></p>
+            <div id="idUniquedBoxContent2229" style="display: none; padding-left: 5px;">
                 <div>
                   
-<!-- PRONUNCIATION - NOTES -->                  
+<!-- After you watch - Note -->                  
                   
                     <p style="margin-bottom: 20px;"></p>
                     <ol class="ol-number">
-                        <li class="li-plan"></li>
+                      <li class="li-plan">Have students work in pairs to ask and answer the questions to complete their notes. (Handouts)</li>
+                      <li class="li-plan">Have some pairs report their notes and go through the answers. (PPT)</li>
                     </ol>
                 </div>
             </div>
         </td>
     </tr>
-
-    <!--COMMUNICATION-->
+    <tr>
+      
+<!--Pronunciation & Communication-->
 
     <tr>
-        <td><b>Communication:</b>
+        <td style="border-bottom: 1px solid silver;"><b>Pronunciation &amp; Communication: </b>
             <ul class="ul-disc">
-                <li class="li-plan">SB: p.13</li>
-                <li class="li-plan">PPT: slides #5-6</li>
+              <li class="li-plan">SB: p. 11</li>
+              <li class="li-plan">PPT</li>
             </ul>
         </td>
-        <td>
-            Use the vocabulary / grammar learned through speaking about the topic (Video)</td>
-        <td>
-            <p style="margin-bottom: 10px;"><button onclick="var x=document.getElementById(&quot;idUniquedBoxContent2412&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button></p>
-            <div id="idUniquedBoxContent2412" style="display: none; padding-left: 5px;">
+        <td style="border-bottom: 1px solid silver;">Practice pronunciation<p style="margin-bottom: 5px"></p>
+Use the vocabulary / grammar learned through speaking about the topic
+</td>
+        <td style="border-bottom: 1px solid silver;">
+            <p style="margin-bottom: 10px;"><button onclick="var x=document.getElementById(&quot;idUniquedBoxContent22781&quot;);&quot;none&quot;===x.style.display?	x.style.display=&quot;block&quot;:x.style.display=&quot;none&quot;;">Notes</button>
+            </p>
+            <div id="idUniquedBoxContent22781" style="display: none; padding-left: 5px;">
                 <div>
                   
-<!-- COMMUNICATION - NOTES -->                  
+<!-- Pronunciation & Communication - Note -->                  
                   
-                    <b>Communication</b>
-                    <ol class="ol-number">
-                        <li class="li-plan"></li>
-                    </ol>
+            <b>Pronunciation</b>
+		    <ol class="ol-number">
+              <li class="li-plan">Have students listen to the audio. Draw their attention on how to pronounce the <i>reduction of ‘to’</i>.</li>
+              <li class="li-plan">Have students work in pairs to practice reading the sentences. </li>
+            </ol>
+                  
+            <b>Communication </b>
+		    <ol class="ol-number">
+              <li class="li-plan">Have students work in pairs and complete the task.</li>
+              <li class="li-plan">Let them mingle to share their findings or report their findings in class.</li>
+            </ol>
                 </div>
             </div>
         </td>
     </tr>
+    <tr>
+
 </table>
 ```
 
