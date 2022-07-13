@@ -58,7 +58,7 @@
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -310,7 +310,7 @@ Review</b> (50 mins)</h3>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -468,7 +468,7 @@ Review</b> (50 mins)</h3>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -645,7 +645,7 @@ Review</b> (50 mins)</h3>
 <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span></th>
 </tr>
 <tr>
- <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b></td>
+ <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b></td>
  <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
  <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b></td>
 </tr>
@@ -807,7 +807,7 @@ Review</b> (50 mins)</h3>
 <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span></th>
  </tr>
  <tr>
-  <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b></td>
+  <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b></td>
   <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
   <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b></td>
  </tr>
@@ -988,7 +988,7 @@ Review</b> (50 mins)</h3>
 <b style="color: black; text-shadow: 2px 2px 4px white;font-size: 17px;">Lesson Plan</b>&#160;&#160;|&#160;&#160;<span style="color: black; text-shadow: 2px 2px 4px white; font-size: 14px;"><b>Unit 1</b>&#160;<i>(SB: pp.54-55, WB: pp.80-81)</i></span></th>
  </tr>
  <tr>
-   <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b></td>
+   <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b></td>
    <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
    <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b></td>
  </tr>
@@ -1285,7 +1285,7 @@ Review</b> (50 mins)</h3>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -1518,7 +1518,7 @@ Review</b> (50 mins)</h3>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -1691,7 +1691,7 @@ Review</b> (50 mins)</h3>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -1770,7 +1770,7 @@ Review</b> (50 mins)</h3>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -1972,7 +1972,7 @@ Understand the vocabulary</td>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -2084,7 +2084,7 @@ Understand the vocabulary</td>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -2313,7 +2313,7 @@ Understand the vocabulary</td>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -2467,7 +2467,7 @@ Understand the vocabulary</td>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -2632,7 +2632,7 @@ Understand the vocabulary</td>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -2827,7 +2827,7 @@ Understand the vocabulary</td>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -2941,7 +2941,7 @@ Understand the vocabulary</td>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -3156,7 +3156,7 @@ Understand the vocabulary</td>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
@@ -3464,7 +3464,7 @@ Understand the vocabulary</td>
         </th>
     </tr>
     <tr>
-        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Suggested Steps</b>
+        <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Teaching Steps</b>
         </td>
         <td style="background-color: #f8f0fc; width: 25% !important; border: 1px solid white;"><b>Objectives</b></td>
         <td style="background-color: #f8f0fc; width: 50% !important; border: 1px solid white;"><b>Detailed Notes</b>
